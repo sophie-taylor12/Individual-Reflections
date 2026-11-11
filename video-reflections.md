@@ -18,5 +18,5 @@ This was a clear presentation that covered the team's project management and tea
  
 ## Group 3 - TAG Teaming-20261104_152130-Meeting Recording
  
-This group made a Power BI dashboard that was clear and polished, with a good range of chart types. It had interactive filters for date and day of the week, which let users explore activity patterns over time. Each team member presented their own features, so the whole dashboard was covered in depth and the findings were reported clearly. Having several presenters showed the team's shared ownership of the work.
+This group made a Power BI dashboard that was clear and polished, with a good range of chart types. It had interactive filters for date and day of the week, which let users explore activity patterns over time. Each team member presented their own features, so the whole dashboard was covered in depth and the findings were reported clearly.
  
